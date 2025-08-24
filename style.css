@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+#featured-property p {
+  width: 800px;
+  margin: 10px auto;   /* auto centers block */
+  text-align: center;
+}
+#details div {
+  float: left;
+  width: 25%;              /* 4 divs take up 100% */
+  background-color: rgb(187, 14, 14);
+  text-align: center;
+}
